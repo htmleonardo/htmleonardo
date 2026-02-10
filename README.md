@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Leonardo Almeida
 
-Eu transformo desafios técnicos em soluções eficientes que otimizam processos e melhoram a experiência dos usuários.
-
 Desde 2022, venho me dedicando à área de tecnologia, com foco em Python, SQL e análise de dados, desenvolvendo relatórios inteligentes em Power BI e aplicando boas práticas em versionamento com Git e GitHub.
 
 Atuo em todo o ciclo de suporte e análise: diagnóstico de problemas, investigação de causa-raiz, proposição de soluções e desenvolvimento de melhorias contínuas. Além disso, tenho experiência em criar dashboards e relatórios estratégicos que apoiam a tomada de decisão das equipes.
